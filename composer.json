@@ -1,0 +1,15 @@
+{
+    "name": "jabranr/test-ci",
+    "type": "library",
+    "license": "MIT License",
+    "authors": [
+        {
+            "name": "Jabran Rafique",
+            "email": "hello@jabran.me"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "4.7.*"
+    }
+}
