@@ -1,7 +1,5 @@
 <?php namespace JRI\Tests;
 
-require __DIR__ . '/../../autoload.php';
-
 class FooBarExceptionTest extends \PHPUnit_Framework_TestCase {
 
 	/**
