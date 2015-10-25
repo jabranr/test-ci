@@ -1,4 +1,4 @@
-<?php
+<?php namespace JRI\Tests;
 
 class JabranCITest extends \PHPUnit_Framework_TestCase {
 
@@ -6,8 +6,8 @@ class JabranCITest extends \PHPUnit_Framework_TestCase {
 	public $jci_noName;
 
 	public function setUp() {
-		$this->jci_name = new JabranCI('Jabran');
-		$this->jci_noName = new JabranCI;
+		$this->jci_name = new \JRI\JabranCI('Jabran');
+		$this->jci_noName = new \JRI\JabranCI;
 	}
 
 	public function tearDown() {
