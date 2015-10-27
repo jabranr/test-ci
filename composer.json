@@ -16,5 +16,10 @@
         "psr-4": {
             "JRI\\JabranCI\\": "src"
         }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "JRI\\JabranCI\\Tests\\": "test"
+        }
     }
 }
