@@ -1,3 +1,3 @@
-<?php namespace JRI\Exception;
+<?php namespace JRI\JabranCI\Exception;
 
 class FooBarException extends \Exception {}

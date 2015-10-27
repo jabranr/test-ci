@@ -1,4 +1,4 @@
-<?php namespace JRI;
+<?php namespace JRI\JabranCI;
 
 class JabranCI {
 
